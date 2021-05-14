@@ -1,1 +1,2 @@
-var nome;
+let nome = "";
+let id = 0;
